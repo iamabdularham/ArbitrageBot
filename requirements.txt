@@ -1,0 +1,4 @@
+web3==6.20.4
+flashbots==2.0.0
+requests==2.32.0
+python-dotenv==1.0.0
